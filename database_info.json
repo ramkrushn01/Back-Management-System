@@ -3,7 +3,7 @@
         "host":"localhost",
         "port":3306,
         "username":"root",
-        "password":"ramkrushn@2001",
-        "database01":"mydata"
+        "password":"ramkrushn@123,./",
+        "database01":"my_bank_data_01"
     }
 }
